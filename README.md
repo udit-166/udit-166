@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udit-166&label=Profile%20views&color=0e75b6&style=flat" alt="udit-166" /> </p>
 
-- 🔭 I’m currently working on **Railway Management App**
+- 🔭 I recently completed **Railway Management App**
 
-- 🌱 I’m currently learning **React Native Framework**
+- 🌱 I recently completed **React Native Framework**
 
-- 💬 Ask me about **React.js, SpringBoot, Microservice, Api Integration, Api Integration, MySql**
+- 💬 Ask me about **React.js, React Native, SpringBoot, Microservice, Api Integration, Api Integration, Node.js, Express.js, Industries Level Code Architecture, MySql**
 
 - 📫 How to reach me **udhishahi1606@gmail.com**
 
