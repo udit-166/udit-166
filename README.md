@@ -6,7 +6,7 @@
 
 - 🔭 I am currently working on one of my personal project **Food Delivery App & Web App**
 
-- 🌱 I recently completed **React Native Framework**
+- 🌱 I am currently learning **Data Analytics With Python**
 
 - 💬 Ask me about **React.js, React Native, SpringBoot, Microservice, Api Integration, Api Integration, Node.js, Express.js, Industries Level Code Architecture, MySql**
 
