@@ -8,7 +8,7 @@
 
 - 🌱 I am currently learning **Data Analytics With Python**
 
-- 💬 Ask me about **React.js, React Native, SpringBoot, Microservice, Api Integration, Api Integration, Node.js, Express.js, Industries Level Code Architecture, MySql**
+- 💬 Ask me about **React.js, React Native, SpringBoot, Microservice, Api Integration, Node.js, Express.js, Industries Level Code Architecture, MySql**
 
 - 📫 How to reach me **udhishahi1606@gmail.com**
 
