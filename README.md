@@ -8,7 +8,7 @@
 
 - 🌱 I am currently exploring the future technology **Data Science**
 
-- 💬 Ask me about **React.js, React Native, SpringBoot, Microservice, Kafka(Event Driven Architecture), Redis (Memory Management), Api Integration, Node.js, Express.js, Industries Level Code Architecture, MySql**
+- 💬 Ask me about **React.js, React Native, SpringBoot, Microservice, Kafka(Event Driven Architecture), Redis (Memory Management), Api Integration, Node.js, Express.js, Industries Level Code Architecture, Database**
 
 - 📫 How to reach me **udhishahi1606@gmail.com**
 
