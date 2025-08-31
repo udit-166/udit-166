@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udit-166&label=Profile%20views&color=0e75b6&style=flat" alt="udit-166" /> </p>
 
-- 🔭 I am recently completed on one of my personal project **Food Delivery App (Backend)**
+- 🔭 I recently completed a personal project **Food Delivery App (Backend)**
 
 - 🌱 I am currently exploring the future technology **Data Science**
 
