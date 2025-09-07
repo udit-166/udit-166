@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **udhishahi1606@gmail.com**
 
-- 📄 Know about my experiences [by just clicking here.](https://drive.google.com/file/d/1pTFrYqvqe5IRHJyL8BQzL7teSUngm_qI/view?usp=sharing)]
+- 📄 Know about my experiences by just clicking [here.](https://drive.google.com/file/d/1pTFrYqvqe5IRHJyL8BQzL7teSUngm_qI/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
